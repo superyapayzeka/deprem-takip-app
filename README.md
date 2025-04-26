@@ -1,9 +1,9 @@
-Merhaba! Bu depo, YouTube kanalımda ([Buraya YouTube Video Linkini Ekleyin]) gösterdiğim, Gemini 2.5 Pro ile Python ve PySide6 kullanarak geliştirdiğim masaüstü deprem takip uygulamasının kaynak kodlarını içerir.
+Merhaba! Bu depo, YouTube kanalımda (https://youtu.be/2y44nByeZrI) gösterdiğim, Gemini 2.5 Pro ile Python ve PySide6 kullanarak geliştirdiğim masaüstü deprem takip uygulamasının kaynak kodlarını içerir.
 
 Uygulama, USGS'den aldığı güncel deprem verilerini takip eder, harita üzerinde gösterir ve belirlediğiniz kriterlere göre bildirimler gönderir.
 
-[![Uygulama Ekran Görüntüsü]
-(https://ibb.co/xSXsmWxG
+Uygulama Ekran Görüntüsü
+https://ibb.co/xSXsmWxG
 https://ibb.co/XkC1Jpjb)
 
 ## ✨ Ana Özellikler
